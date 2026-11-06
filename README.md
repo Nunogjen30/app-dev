@@ -1,5 +1,5 @@
 # Doctor X: Mafia in White (2026)
----
+
 ## A. Introduction
 Doctor X: Mafia in White is a Korean medical drama series about a brilliant surgeon who is not afraid to stand up against powerful people in the hospital. The story shows how doctors face difficult situations while trying to save their patients. It also shows the problems of corruption, unfair treatment, and the importance of putting patients first than everything.
 
@@ -40,7 +40,9 @@ I highly recommend this series to people who enjoy cool korean dramas and storie
 Doctor X: Mafia in White has a total of 12 episodes that you can watch on Netflix.
 
 ### Movie Information and Details
-| ----------- | ----------- |
+
+| Movies | Information | 
+|:---|:---|
 | Title | Doctor X: Mafia in White |
 | Release Year | 2026 |
 | Country | South Korea |
@@ -48,7 +50,9 @@ Doctor X: Mafia in White has a total of 12 episodes that you can watch on Netfli
 | Language | Korean |
 | Platform | Netflix |
 | Main Theme | Medical cases, corruption, and justice |
-| Description | A brilliant surgeon faces powerful people in the hospital while trying to save patients. |
+| Description | A brilliant surgeon faces powerful people in the hospital while trying to save patients.|
+
+---
 
 ## Link:
 [Doctor X:  Mafia in White](https://www.netflix.com/us/title/82682379?s=a&trkid=13747225&shareType=Title&shareUuid=d6c4a4cf-7be9-49cb-b162-bc9e25232d13&trg=cp&unifiedEntityIdEncoded=Video%3A82682379&vlang=en&clip=83137137)
